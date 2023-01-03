@@ -1,2 +1,3 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=teresahanak) ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/teresahanak/wikipedia-life-expectancy) ![GitHub contributors](https://img.shields.io/github/contributors/teresahanak/wikipedia-life-expectancy) ![GitHub language count](https://img.shields.io/github/languages/count/teresahanak/wikipedia-life-expectancy) ![GitHub top language](https://img.shields.io/github/languages/top/teresahanak/wikipedia-life-expectancy) ![GitHub last commit](https://img.shields.io/github/last-commit/teresahanak/wikipedia-life-expectancy) 
 # sql-quick-insights-for-music-store
 An example of Python implementation of SQLite in Jupyter Notebook for quick business insights.
